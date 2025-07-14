@@ -1,6 +1,12 @@
 # dirwalk.sh
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+<!-- markdownlint-disable no-inline-html -->
+<p align="center">
+  <a href="https://github.com/tclahr/dirwalk.sh/actions/workflows/shellcheck.yaml" alt="Issues">
+    <img src="https://github.com/tclahr/dirwalk.sh/actions/workflows/shellcheck.yaml/badge.svg" alt="shellcheck_badge"/></a>
+  <a href="https://github.com/tclahr/dirwarlk.sh/LICENSE" alt="License">
+    <img src="https://img.shields.io/github/license/tclahr/dirwalk.sh?style=flat-square" alt="license_badge"/></a>
+</p>
 
 ## Overview
 
