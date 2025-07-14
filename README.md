@@ -1,5 +1,7 @@
 # dirwalk.sh
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
 ## Overview
 
 `dirwalk.sh` is a lightweight, POSIX-compliant shell script for recursively traversing directories in Unix-like systems. It offers customizable traversal modes (`parents` or `children`) and supports exclusion of specific paths during the scan. This utility is ideal for sysadmins, DevOps engineers, and power users looking to automate filesystem analysis or manage large directory trees with precision.
